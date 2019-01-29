@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* ![Landing Page](https://github.com/aricam23/liftoff-assignments/blob/master/P3-Project_Planning/Time%20Clock%20Landing%20Page.jpg)
+* ![Login Page](https://github.com/aricam23/liftoff-assignments/blob/master/P3-Project_Planning/Time%20Clock%20Login%20Page.jpg)
+* ![Time Card](https://github.com/aricam23/liftoff-assignments/blob/master/P3-Project_Planning/Time%20Clock%20Time%20Card.jpg)
 
 ### Project Tracker
 
