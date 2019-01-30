@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
- 
+(My GitHub Page)[https://github.com/aricam23]
+
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+(My LinkedIn Page)[https://www.linkedin.com/in/arielcamposstl/]
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
