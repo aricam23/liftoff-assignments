@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-(My GitHub Page)[https://github.com/aricam23]
+[My GitHub Page](https://github.com/aricam23)
 
 ### LinkedIn
-(My LinkedIn Page)[https://www.linkedin.com/in/arielcamposstl/]
+[My LinkedIn Page](https://www.linkedin.com/in/arielcamposstl/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+[The most recent version of my resume](https://github.com/aricam23/liftoff-assignments/blob/master/C1-Online_Profiles/Resume%201%2017%2019.pdf)
